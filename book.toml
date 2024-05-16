@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Reiya"
+
+[build]
+# Why is this on by default it's such a pain in the ass
+create-missing = false
